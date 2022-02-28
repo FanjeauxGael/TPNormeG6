@@ -1,0 +1,8 @@
+C:\Users\gaelf\source\repos\TPNormeG6\TPNormeG6\bin\Debug\TPNormeG6.exe.config
+C:\Users\gaelf\source\repos\TPNormeG6\TPNormeG6\bin\Debug\TPNormeG6.exe
+C:\Users\gaelf\source\repos\TPNormeG6\TPNormeG6\bin\Debug\TPNormeG6.pdb
+C:\Users\gaelf\source\repos\TPNormeG6\TPNormeG6\obj\Debug\TPNormeG6.csprojAssemblyReference.cache
+C:\Users\gaelf\source\repos\TPNormeG6\TPNormeG6\obj\Debug\TPNormeG6.Properties.Resources.resources
+C:\Users\gaelf\source\repos\TPNormeG6\TPNormeG6\obj\Debug\TPNormeG6.csproj.GenerateResource.cache
+C:\Users\gaelf\source\repos\TPNormeG6\TPNormeG6\obj\Debug\TPNormeG6.exe
+C:\Users\gaelf\source\repos\TPNormeG6\TPNormeG6\obj\Debug\TPNormeG6.pdb
